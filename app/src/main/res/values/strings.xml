@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">FirstLab</string>
+    <string name="title_activity_end_game">End Game</string>
+    <string name="super_game_counter">Super Game Counter</string>
+    <string name="end_game">End Game</string>
+    <string name="game_over">Game Over!</string>
+    <string name="score">Score</string>
+    <string name="level">Level</string>
+    <string name="hello">Hello %s!</string>
+    <string name="increase_score">Increase Score</string>
+    <string name="decrease_score">Decrease Score</string>
+    <string name="end_game_button">End Game</string>
+    <string name="play">Play</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="good_progress">¡Vas en buen camino!</string>
+    <string name="congratulations">¡Felicidades, alcanzaste el nivel 10!</string>
+    <string name="game_ended">Juego terminado. Pulsa el botón para volver a empezar</string>
+    <string name="send_data">Enviar datos...</string>
+    <string name="email_subject">Puntuación del jugador %s</string>
+    <string name="email_body">El jugador %s ha obtenido una puntuación de %d puntos y ha alcanzado el nivel %d</string>
 </resources>
